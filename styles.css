@@ -1,0 +1,7 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: lightgrey;
+}
+h2, p, a {
+    text-align: center;
+}
